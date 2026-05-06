@@ -220,7 +220,7 @@ $$\Delta A_{405}/ \text{time} =\frac{\Delta A_{405}}{18.8} (\text{second}^{-1}) 
   </tr>
 
   <tr>
-    <td>ALK</td>
+    <td>ALP</td>
     <td colspan="5">100</td>
   </tr>
 </table>
@@ -253,7 +253,7 @@ $$\Delta A_{405}/ \text{time} =\frac{\Delta A_{405}}{18.8} (\text{second}^{-1}) 
   </tr>
 
   <tr>
-    <td>ALK</td>
+    <td>ALP</td>
     <td colspan="5">100</td>
   </tr>
 </table>
@@ -286,7 +286,7 @@ $$\Delta A_{405}/ \text{time} =\frac{\Delta A_{405}}{18.8} (\text{second}^{-1}) 
   </tr>
 
   <tr>
-    <td>ALK</td>
+    <td>ALP</td>
     <td colspan="5">100</td>
   </tr>
 </table>
@@ -319,7 +319,7 @@ $$\Delta A_{405}/ \text{time} =\frac{\Delta A_{405}}{18.8} (\text{second}^{-1}) 
   </tr>
 
   <tr>
-    <td>ALK</td>
+    <td>ALP</td>
     <td colspan="5">100</td>
   </tr>
 </table>
@@ -352,7 +352,7 @@ $$\Delta A_{405}/ \text{time} =\frac{\Delta A_{405}}{18.8} (\text{second}^{-1}) 
   </tr>
 
   <tr>
-    <td>ALK</td>
+    <td>ALP</td>
     <td colspan="5">100</td>
   </tr>
 </table>
