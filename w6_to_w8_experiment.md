@@ -3,30 +3,9 @@ title: w6_to_w8_鹼性磷酸酶的酵素動力學
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-    table {
-  margin-left: auto;
-  margin-right: auto;
-    }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-    }
-</style>
-
-<center>
     
 # Enzyme Kinetics of Alkaline Phosphatase<br>鹼性磷酸酶的酵素動力學
-    
-</center>
-<span style="color: #adadad">4113052130 生科二 徐詠智</span>
-
 ## introduction
 ### 鹼性磷酸酶是什麼
 - 鹼性磷酸酶 (**alkaline phosphatase, ALP**) 是一種在肝臟、骨骼、腸道中常見的水解酵素，在pH值為8~10的環境下活性較佳，負責幫忙釋出磷酸基，在生理上有不同的功能: 
