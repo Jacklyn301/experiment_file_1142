@@ -3,36 +3,7 @@ title: Mouse tissue genomic DNA extraction
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-    table {
-  margin-left: auto;
-  margin-right: auto;
-    }
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-    }
-</style>
-
-<center>
-    
 # 小鼠組織基因體 DNA 萃取實驗<br>Mouse tissue genomic DNA extraction
-    
-</center>
-
-#### B班第四組
-
-<center>
-
-4112052052 生科三 陳柏文&nbsp;&nbsp;&nbsp;4113052130 生科二 徐詠智&nbsp;&nbsp;&nbsp;4113031044 生科二 洪諒&nbsp;&nbsp;&nbsp;4113052148 生科二 羅曼瑈
-    
-</center>
 
 ## 實驗目的
 - 學習自小鼠組織萃取 genomic DNA 之基本原理與操作流程
