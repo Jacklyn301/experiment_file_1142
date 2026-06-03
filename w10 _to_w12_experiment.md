@@ -3,30 +3,10 @@ title: w10 _to_w12  利用大腸桿菌生產及純化重組蛋白
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1100px !important;
-        margin: 0 auto;
-    }
-    table {
-  margin-left: auto;
-  margin-right: auto;
-    }
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-    }
-</style>
-
-<center>
-    
 # production and purification of recombinant protein using E.coli<br>利用大腸桿菌生產及純化重組蛋白
-
 ### group 3
 
-</center>
+---
 
 ## week 1: 大量表現蘋果酸脫氫酶
 ### 前製步驟
