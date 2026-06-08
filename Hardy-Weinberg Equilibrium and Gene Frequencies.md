@@ -3,36 +3,11 @@ title: Hardy-Weinberg Equilibrium and Gene Frequencies
 
 ---
 
-<style>
-    .markdown-body {
-        max-width: 1000px !important;
-        margin: 0 auto;
-    }
-    table {
-  margin-left: auto;
-  margin-right: auto;
-    }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-    }
-</style>
-
-<center>
-    
 # 哈溫平衡與基因頻率<br>Hardy-Weinberg Equilibrium and Gene Frequencies
-    
-</center>
-
 #### B班第四組
 
-<center>
-
-4112052052 生科三 陳柏文&nbsp;&nbsp;&nbsp;4113052130 生科二 徐詠智&nbsp;&nbsp;&nbsp;4113031044 生科二 洪諒&nbsp;&nbsp;&nbsp;4113052148 生科二 羅曼瑈
-    
-</center>
+---
 
 ## 實驗原理
 - **哈溫平衡 (Hardy-Weinberg equilibrium)** 是族群遺傳學的核心定律。它指出在一個無天擇、無突變、無遷移、族群無限大且隨機交配的理想狀態下，族群的「等位基因頻率」與「基因型頻率」代代皆會維持恆定，不會隨時間演化
