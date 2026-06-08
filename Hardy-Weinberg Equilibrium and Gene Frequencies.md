@@ -48,6 +48,7 @@ $$p^2+2pq+q^2=(p+q)^2=1$$
 | $AB (2pq)$ |**6**|
 |**total**  $(p+q+r)^2$ |**82**|
 
+
 - 我們先換算成表型頻率
 
 
@@ -63,9 +64,7 @@ $$p^2+2pq+q^2=(p+q)^2=1$$
 
 - $O$ 型只有基因型 $ii$ :
 
-$$
-r^2=0.5488\rightarrow r=\sqrt{0.5488}\rightarrow r\approx 0.7408
-$$
+$$r^2=0.5488\rightarrow r=\sqrt{0.5488}\rightarrow r\approx 0.7408$$
 
 - A 型頻率為: 
 
